@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CV Parser</string>
+    <string name="choose_files">Choose Files</string>
+    <string name="process_cvs">Process CVs</string>
+    <string name="download_results">Download Results (CSV)</string>
+    <string name="upload_pdfs">Upload PDF CVs</string>
+    <string name="click_to_browse">Click to browse or drag & drop</string>
+    <string name="processing_results">Processing Results</string>
+</resources>
